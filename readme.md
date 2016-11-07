@@ -17,13 +17,11 @@ I have also just started a blog about the job search process after coding bootca
 
 I am highly experienced in identifying business and systems issues, then working with users and developers to build solutions to these problems.
 
-As a developer this skill enables me to spot and resolve issues before they impact the user experience. For example during the development of the multiplayer game Quizzbuzz at Makers Academy, I identified that if a user left a game any remaining players would be stuck on the current question. To resolve this I suggested a solution which notified the remaining players that the game had ended, and gave them the option to start a new game.
+As a developer this skill enables me to spot and resolve issues before they impact the user experience. For example during the development of the iPhone app Turfy at Makers Academy, I identified that if a user left a game any remaining players would be stuck on the current question. To resolve this I suggested a solution which notified the remaining players that the game had ended, and gave them the option to start a new game.
 
-#### Analysis
+#### Agile
 
-My years as a Business Analyst have proved brilliant preparation for life as a developer. I am able to turn vague ideas into actionable user stories, and enjoy using these to guide my development process.
-
-I pick up new concepts with ease, and focus on asking the right questions to further my understanding of new ideas. These skills served me well when I worked in three different sectors within 18 months (Banking, Charity and NHS), and I was able to understand the specific business problems and requirements of each organisation to quickly gain the trust of project stakeholders.
+While the term Agile was a new addition to my vocabulary, I am not unfamiliar with the concept in terms of
 
 #### Additional Skills
 
@@ -47,8 +45,8 @@ I pick up new concepts with ease, and focus on asking the right questions to fur
 
 Project title  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
-[Turfy](https://github.com/quizzbuzz/quizzbuzz) | A location-based messenger application for iOS. You can view a short video of it in action here "Insert link"  | 10 days | Swift 3, XCode, Firebase
-[J-EATS](https://github.com/spyAPI/spyAPI) | A restaurant review website built with ruby on rails. You can visit the site [here](https://j-eats.herokuapp.com). | 4 days | Ruby on Rails, PostgreSQL | RSpec, Capybara
+[Turfy](https://github.com/lawrencedawson/turfy) | A location-based messenger application for iOS. You can view a short video of it in action [here](https://www.youtube.com/watch?feature=player_embedded&v=16ccXqqh5W8)  | 10 days | Swift 3, XCode, Firebase
+[J-EATS](https://github.com/ercekal/yelp) | A restaurant review website built with ruby on rails. You can visit the site [here](https://j-eats.herokuapp.com). | 4 days | Ruby on Rails, PostgreSQL | RSpec, Capybara
 
 
 ## Experience
@@ -68,7 +66,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 
 #### Makers Academy (June 2016 to September 2016)
 
-A 16-week intensive development bootcamp, emphasising:
+A 16-week intensive web development bootcamp, with emphasis on:
 - Pair-programming
 - Test Driven Development
 - Object Oriented Design
