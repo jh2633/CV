@@ -12,14 +12,10 @@ I am searching for a Junior Developer position that would allow me to learn and 
 
 My earliest training in good communication came from working alongside the director of development at a non-profit. From there I gained hands-on experience in drafting press releases, professional correspondence and liaising with outside inquiries and other departments within the organization. One month after I had started I was given the responsibility to oversee a book launch, which included communicating with the author, managing the organization's social media, as well as managing inquiries from the public and event partners.
 
-I have also just started a blog about the job search process after coding bootcamp. You can visit it here.
-
 #### Problem-solving
 
-I have had
-I am highly experienced in identifying business and systems issues, then working with users and developers to build solutions to these problems.
-
-As a developer this skill enables me to spot and resolve issues before they impact the user experience. For example during the development of the multiplayer game Quizzbuzz at Makers Academy, I identified that if a user left a game any remaining players would be stuck on the current question. To resolve this I suggested a solution which notified the remaining players that the game had ended, and gave them the option to start a new game.
+Working in real estate development meant that one has to always expect the unexpected, and that includes anything from changes in customer's requirements to foundation issues that required us to return to the drawing board.
+While the scenarios all differ, in the end they all demand a can-do attitude and exploring all the options to make an informed decision. I was able to apply my problem-solving skills at Makers when writing user stories, so as to better create a product that meets the customer's needs.
 
 #### Analysis
 
@@ -49,7 +45,7 @@ Project title  | Description  									| Development timeframe | Technologies | 
 ------------- | ------------------------------	| ------------- |------------- |---------
 [Turfy](https://github.com/lawrencedawson/turfy) | A location-based messenger application for iOS. You can view a short video of it in action [here](https://www.youtube.com/watch?feature=player_embedded&v=16ccXqqh5W8)  | 10 days | Swift 3, XCode, Firebase
 [J-EATS](https://github.com/ercekal/yelp) | A restaurant review website built with ruby on rails. You can visit the site [here](https://j-eats.herokuapp.com). | 4 days | Ruby on Rails, PostgreSQL | RSpec, Capybara
-[Atticus Legal](https://github.com/jh2633/Atticus_Legal) | Our winning website from Legal Geek's Law for Good Hackathon, October 2016. You can checkout the site [here](https://atticus-legal.herokuapp.com). A website that would link legal advice providers with rural individuals that don't have access to law centres | 20 Hours | Ruby on Rails, PostgreSQL |
+[Atticus Legal](https://github.com/jh2633/Atticus_Legal) | Our winning website from Legal Geek's Law for Good Hackathon, October 2016. You can checkout the site [here](https://atticus-legal.herokuapp.com). The site aims to link legal advice providers with rural individuals that don't have access to law centres | 20 Hours | Ruby on Rails, PostgreSQL |
 
 
 ## Experience
