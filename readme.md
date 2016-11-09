@@ -2,15 +2,13 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-Hello there, I am a former lab scientist that has recently transitioned into the field of IT through my time at Maker's Academy. It's been an intense journey at Maker's, but having recently won a Hackthon even before I had completed the course, I've been more convinced than ever that web development is the path I want to continue on.
-
-I am searching for a Junior Developer position that would allow me to learn and grow my skills as a developer, I am language agnostic but lean towards being able to with full stack. My ideal organization would be one that not only values what I can bring to the table, but also seeks to do good in its business mission.
+Hello there, I am a former lab scientist that has recently transitioned into web development through my time at Makers Academy. It's been an intense journey at Makers, but having recently won a Hackthon even before I had completed the course, I believe I have the necessary skill set for a Junior Developer position. My ideal organization would be one that practices pair programming, TDD, and Agile.
 
 ## Skills
 
 #### Communication
 
-My earliest training in good communication came from working alongside the director of development at a non-profit. From there I gained hands-on experience in drafting press releases, professional correspondence and liaising with outside inquiries and other departments within the organization. One month after I had started I was given the responsibility to oversee a book launch, which included communicating with the author, managing the organization's social media, as well as managing inquiries from the public and event partners.
+My earliest training in good communication came from working alongside the director of development at American Academy in Rome. At this post I gained hands-on experience in drafting press releases, professional correspondence and liaising with outside inquiries and other departments within the organization. One month after I had started I was given the responsibility to oversee a book launch, which included communicating with the author, managing the organization's social media, as well as managing inquiries from the public and event partners.
 
 #### Problem-solving
 
