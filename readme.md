@@ -32,11 +32,11 @@ In the past I have always been able to apply my existing knowledge to learning a
 - PostgreSQL
 
 
-- Spoken Languages:
-  - Mandarin - Native speaker
-  - English - Native speaker
-  - Italian - C1
-  - French - A2
+#### Spoken Languages:
+- Mandarin - Native speaker
+- English - Native speaker
+- Italian - C1
+- French - A2
 
 
 ## Projects
