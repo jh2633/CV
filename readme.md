@@ -2,7 +2,9 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-Hello there, I am a former lab scientist that has recently transitioned into web development through my time at Makers Academy. It's been an intense journey at Makers, but having recently won a Hackthon even before I had completed the course, I believe I have the necessary skill set for a Junior Developer position. My ideal organization would be one that practices pair programming, TDD, and Agile.
+Hello there, I am a full-stack developer with experience building web apps using languages such as Ruby, JavaScript, and Swift 3. Formerly trained as a lab scientist, I've transitioned into web development through Makers Academy's Web Development course. It's been an intense journey at Makers, but having recently won a Hackthon even before I had completed the course, I believe I have the necessary skill set for a Junior Developer position. My ideal organization would be one that practices pair programming, TDD, and Agile.
+
+At the moment I am taking part in Coursera's Machine Learning course taught by Prof. Ng of Stanford, as well as assisting two startups with their accelerator applications.
 
 ## Skills
 
