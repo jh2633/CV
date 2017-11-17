@@ -2,9 +2,9 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-Hello there, I am a full-stack developer with experience building web apps using languages such as Ruby, JavaScript, and Swift 3. Formerly trained as a lab scientist, I've transitioned into web development through Makers Academy's Web Development course. It's been an intense journey at Makers, but having recently won a Hackthon even before I had completed the course, I believe I have the necessary skill set for a Junior Developer position. My ideal organization would be one that practices pair programming, TDD, and Agile.
+Full-stack developer with strong academic background, with a proven track record of delivering functioning and secure applications with minimal supervision. Driven and self-motivated individual who learns on his feet and is language agnostic.
 
-Since finishing Makers I have been involved in Atticus Portal, a startup that aims to improve access to justice for all in the UK. The platform aims to partner with Law Centres in the UK to streamline the process of drop-in sessions. The product is still work in progress, but you can check it out [here](http://atticus-portal.co.uk).
+Having built the MVP for Atticus Link, I am now exploring new opportunities in web development in London. I look forward to working in an organisation that builds great products with a user-centered approach.
 ## Skills
 
 #### Communication
@@ -22,13 +22,11 @@ In the past I have always been able to apply my existing knowledge to learning a
 
 #### Additional Skills
 
-- Ruby
-- Javascript
-- Node.js
+- Ruby/Rails
+- Javascript/Node.js
 - Rails
-- RSpec/Capybara
-- Swift 3/XCode
-- PostgreSQL
+- Elixir/Phoenix
+- PSQL/MongoDB/Firebase
 
 
 #### Spoken Languages:
@@ -48,6 +46,9 @@ Project title  | Description  									| Development timeframe | Technologies | 
 
 
 ## Experience
+**Atticus Link** (February 2017 - Current)
+Current Working as a cofounder and tech specialist of a venture-backed law tech startup. Atticus is a web platform that matches non-profits seeking pro bono legal advice to lawyers interested in helping them. The web app is developed using Ruby on Rails with a Postgres backend.
+
 **Kunst Development Ltd** (December 2014 to May 2016)
 *Project Associate*
 
