@@ -1,6 +1,6 @@
 ## Joseph Huang
 
-[Employment](#employment) | [Education](#education) | [Technical Experience](#projects) | [Language/Technologies](#technology) | [Interests](#interests)
+[Employment](#employment) | [Education](#education) | [Projects](#projects) | [Language/Technologies](#technology) | [Interests](#interests)
 
 
 ## Employemnt
