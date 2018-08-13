@@ -8,6 +8,7 @@
 *Full stack developer*
 
 Streetbees is a real-time data gathering and analytics platform in the market research sector.
+
 **Digax** (December 2017 - August 2018)
 *Full stack developer*
 
