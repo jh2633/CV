@@ -4,7 +4,11 @@
 
 
 ## Employemnt
-**Digax** (December 2017 - Current)
+**Streetbees** (August 2018 - Current)
+*Full stack developer*
+
+Streetbees is a real-time data gathering and analytics platform in the market research sector.
+**Digax** (December 2017 - August 2018)
 *Full stack developer*
 
 Full stack developer at Digax, a cryptocurrency exchange platform built on the Ruby on Rails stack.
