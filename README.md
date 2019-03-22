@@ -7,17 +7,17 @@
 **Streetbees** (August 2018 - Current)
 *Full stack developer*
 
-Streetbees is a real-time data gathering and analytics platform in the market research sector.
+Streetbees is a real-time data gathering and analytics company. My work here involved creating and documenting APIs and microservices that are used by different teams at Streetbees and their clients.
 
 **Digax** (December 2017 - August 2018)
 *Full stack developer*
 
-Full stack developer at Digax, a cryptocurrency exchange platform built on the Ruby on Rails stack.
+Full stack developer at Digax, a cryptocurrency exchange platform built with Rails.
 
 **Atticus Link** (February 2017 - November 2017)
 *Full stack developer*
 
-Atticus was a web platform that matches non-profits seeking pro bono legal advice to lawyers interested in helping them. The web app was developed using Ruby on Rails. My main role at Atticus was working with different stakeholders on the technical specs of the platform and as a full stack developer.
+Atticus is a web platform that matches non-profits seeking pro bono legal advice to lawyers interested providing advice. The web app was developed using Ruby on Rails. My main role at Atticus was working with different stakeholders to provide a prototype of the site.
 
 **Kunst Development Ltd** (December 2014 to May 2016)
 *Project Associate*
@@ -51,8 +51,6 @@ A 16-week intensive web development bootcamp, with emphasis on:
 - Minor in Urban Design and Architecture
 
 
-
-
 #### Spoken Languages:
 - Mandarin - Native speaker
 - English - Native speaker
@@ -66,20 +64,19 @@ Project title  | Description  									| Development timeframe | Technologies | 
 ------------- | ------------------------------	| ------------- |------------- |---------
 [Turfy](https://github.com/lawrencedawson/turfy) | A location-based messenger application for iOS. You can view a short video of it in action [here](https://www.youtube.com/watch?feature=player_embedded&v=16ccXqqh5W8)  | 10 days | Swift 3, XCode, Firebase
 [J-EATS](https://github.com/ercekal/yelp) | A restaurant review website built with ruby on rails. You can visit the site [here](https://j-eats.herokuapp.com). | 4 days | Ruby on Rails, PostgreSQL | RSpec, Capybara
-[Atticus Legal](https://github.com/jh2633/Atticus_Legal) | Our winning website from Legal Geek's Law for Good Hackathon, October 2016. You can checkout the site [here](https://atticus-legal.herokuapp.com). The site aims to link legal advice providers with rural individuals that don't have access to law centres | 20 Hours | Ruby on Rails, PostgreSQL |
 
 
 ## Technology
 
 - Ruby/Rails
-- Javascript/Node.js
-- Rails
+- Javascript/React
 - Elixir/Phoenix
 - PSQL/MongoDB/Firebase
+- Docker
 
 
 ## Interests
 
-I enjoy learning about the latest advances in heritage science and am still in touch with previous colleagues.
-Over the last year I picked up playing the harp, and from time to time I participate in my local orchestra.
-I'm also a big fan of yoga and have recently started climbing.
+Currently working on some side projects using Google Cloud Platform and IoT devices built with RaspberryPi.
+
+I'm a regular attendee of LRUG (London Ruby User Group) and Ruby Hacknights in London, as well as meetups hosted by Intertech and Out In Tech.
