@@ -4,7 +4,7 @@
 
 
 ## Employemnt
-**Streetbees** (August 2018 - Current)
+**Streetbees** (August 2018 - May 2019)
 *Full stack developer*
 
 Streetbees is a real-time data gathering and analytics company. My work here involved creating and documenting APIs and microservices that are used by different teams at Streetbees and their clients.
