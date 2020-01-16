@@ -2,9 +2,3 @@ reportStatus: true
 
 minApprovals:
   MEMBER: 1
-
-blockingLabels:
-- WIP
-requiredLabels:
-- merge
-mergeMethod: merge
