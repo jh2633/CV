@@ -1,0 +1,13 @@
+reportStatus: true
+updateBranch: true
+deleteBranchAfterMerge: true
+
+minApprovals:
+  COLLABORATOR: 1
+  MEMBER: 1
+
+blockingLabels:
+- WIP
+requiredLabels:
+- merge
+mergeMethod: squash
