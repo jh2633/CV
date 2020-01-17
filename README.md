@@ -7,7 +7,7 @@
 **Streetbees** (August 2018 - May 2019)
 *Full stack developer*
 
-Streetbees is a real-time data gathering and analytics company. My work here involved creating and documenting APIs and microservices that are used by different teams at Streetbees and their clients.
+Streetbees is a real-time data gathering and analytics company. My work here involved creating and documenting APIs and micro-services that are used by different teams at Streetbees and their clients.
 
 **Digax** (December 2017 - August 2018)
 *Full stack developer*
