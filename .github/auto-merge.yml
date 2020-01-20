@@ -4,7 +4,7 @@ deleteBranchAfterMerge: true
 reportStatus: true
 
 minApprovals:
-  ORGANISATION_MEMBER: 1
+  ORGANIZATION_MEMBER: 1
 
 requiredLabels:
 - merge
