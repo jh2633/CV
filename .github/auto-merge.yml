@@ -2,7 +2,8 @@
 
 deleteBranchAfterMerge: true
 reportStatus: true
-
+blockingChecks:
+- ci/circleci
 minApprovals:
   ORGANISATION_MEMBER: 2
 
