@@ -4,7 +4,7 @@
 
 
 ## Employemnt
-**Streetbees** (August  2018 - May 2019)
+**Streetbees** (August 2018 - May 2019)
 *Full stack developer*
 
 Streetbees is a real-time data gathering and analytics company. My work at Streetbees involved creating and documenting APIs and microservices that are used by different teams at Streetbees and their clients.
@@ -24,10 +24,6 @@ Atticus is a web platform that matches non-profits seeking pro bono legal advice
 
 **Tate** (November 2013 to July 2014)
 *Science Collaborator*
-
-**Oyster.com** (July 2011 to December 2011)
-*Structured Data*
-
 
 ## Education
 
