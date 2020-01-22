@@ -25,10 +25,6 @@ Atticus is a web platform that matches non-profits seeking pro bono legal advice
 **Tate** (November 2013 to July 2014)
 *Science Collaborator*
 
-**Oyster.com** (July 2011 to December 2011)
-*Structured Data*
-
-
 ## Education
 
 #### Makers Academy (June 2016 to September 2016)
