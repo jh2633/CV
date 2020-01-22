@@ -5,7 +5,7 @@ reportStatus: true
 blockingChecks:
 - ci/circleci
 minApprovals:
-  ORGANISATION_MEMBER: 2
+  COLLABORATOR: 2
 
 requiredLabels:
 - merge
