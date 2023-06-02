@@ -4,6 +4,12 @@
 
 
 ## Employemnt
+**Perry Street Software** (May 2021 - April 2022)
+*Full stack developer*
+
+**Vinterior Ltd** (June 2019 - August 2020)
+*Full stack developer*
+
 **Streetbees** (August 2018 - May 2019)
 *Full stack developer*
 
@@ -19,14 +25,9 @@ Full stack developer at Digax, a cryptocurrency exchange platform built with Rai
 
 Atticus is a web platform that matches non-profits seeking pro bono legal advice to lawyers interested providing advice. The web app was developed using Ruby on Rails. My main role at Atticus was working with different stakeholders to provide a prototype of the site.
 
-**Kunst Development Ltd** (December 2014 to May 2016)
-*Project Associate*
-
 **Tate** (November 2013 to July 2014)
 *Science Collaborator*
 
-**Oyster.com** (July 2011 to December 2011)
-*Structured Data*
 
 
 ## Education
@@ -55,7 +56,7 @@ A 16-week intensive web development bootcamp, with emphasis on:
 - Mandarin - Native speaker
 - English - Native speaker
 - Italian - C1
-- French - A2
+- Portuguese - B1
 
 
 ## Projects
@@ -76,7 +77,3 @@ Project title  | Description  									| Development timeframe | Technologies | 
 
 
 ## Interests
-
-Currently working on some side projects using Google Cloud Platform and IoT devices built with RaspberryPi.
-
-I'm a regular attendee of LRUG (London Ruby User Group) and Ruby Hacknights in London, as well as meetups hosted by Intertech and Out In Tech.
